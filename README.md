@@ -1,8 +1,5 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&text=HyungJun%20Leem's%20github&fontSize=50)
-
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GbLeem)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GbLeem/GbLeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
