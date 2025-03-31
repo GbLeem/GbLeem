@@ -1,7 +1,11 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&text=HyungJun%20Leem's%20github&fontSize=50)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GbLeem&hide=Jupyter%20Notebook,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GbLeem&hide=Jupyter%20Notebook,html&layout=compact)
+
+## Tech Stack </h2>
+<div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat">
+    
 <!--
 **GbLeem/GbLeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
